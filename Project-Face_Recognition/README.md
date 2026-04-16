@@ -38,6 +38,8 @@ dataset/
   person_2/
   person_3/
 
+---
+
 ## 🧠 How It Works
 
 * Images are converted to grayscale
